@@ -7,21 +7,27 @@ Current ISS Location, Nasa APOD (Astronomy Picture of the Day) etc
 ## Commands
 
 $help ❓
+
 Shows a full list of available commands
 
-$People 🧑‍🚀
+$People 👨‍🚀
+
 Shows all current People in space
 
 $ISS 🛰️
+
 Gives the current live co-ordinates of the ISS
 
-$elon :man:
+$elon 👨
+
 Get a random Elon Musk quote
 
-$pic
+$pic 📸
+
 A random images from the Perseverance rover on Mars
 
-$apod
+$apod 🌟
+
 Shows NASA's Astronomy Picture of the Day
 
 
